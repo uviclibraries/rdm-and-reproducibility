@@ -1,4 +1,4 @@
-# WORKSHOP Name goes here...
+# Research Data Management for Reproducible Research
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://richmccue.github.io/dsc-template/

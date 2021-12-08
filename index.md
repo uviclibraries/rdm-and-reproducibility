@@ -3,7 +3,6 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
 <img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
 
 # Research Data Management for Reproducible Research
@@ -26,4 +25,14 @@ At the end of this workshop, you will be able to:
 3. Discuss foundational data management practices 
 4. Review available tools that facilitate reproducible research data
  
+
+
+
+
+
+
+
+
+
+
 [NEXT STEP: Pre-Workshop Videos](pre-workshop.html){: .btn .btn-blue }

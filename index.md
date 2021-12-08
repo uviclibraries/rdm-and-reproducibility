@@ -6,18 +6,18 @@ nav_order: 1
 **UPDATE PHOTO**
 <img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
 
-# Research Data Managment for Reproducible Research
+# Research Data Management for Reproducible Research
 
 - Pre-workshop activities: 15 min 
 - Workshop Videos : 32 min
 
 ## Why is Reproducibility important? 
 
-[Taguette](https://taguette.org/) This is a summary
+Reproducible research establishes the validity of scholarly output and contributes to reasearcher credibility and reliability. Across disciplines, researchers have been calling for reproducible research as an attainable minimum standard for assessing the value of scholarly claims, particularly when full independent replication of a study is not feasible. 
 
-- This is a list
+Data management is foundational to establishing reproducibility and its practices must be implemented throughout the course of a research project. 
 
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives 
 
 At the end of this workshop, you will be able to:
 

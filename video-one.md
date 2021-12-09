@@ -12,4 +12,5 @@ This lecture-style workshop reviews the key components of a data management plan
 <iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/269f515f-c08c-4bcf-bb3f-9a5515af9992/public?autoplay=false&automute=false"></iframe>
 
 - ### [Presentation Slides](https://bit.ly/3iPS8jZ){:target="_blank"} 
-[NEXT STEP: Excel Basics](basics-data-cleaning.html){: .btn .btn-blue }
+
+[NEXT STEP: Excel Basics](video-two.html){: .btn .btn-blue }

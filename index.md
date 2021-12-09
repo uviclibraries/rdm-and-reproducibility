@@ -3,8 +3,9 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-![image](https://user-images.githubusercontent.com/88455218/145476068-e8534980-796a-4ea2-902e-6e525432c660.png)
-<img src="WORKSHOP-LOGO-HERE.png" alt="image description" style="float:right;width:180px;"> 
+
+<img src="![image](https://user-images.githubusercontent.com/88455218/145476068-e8534980-796a-4ea2-902e-6e525432c660.png)" alt="image description" style="float:right;width:180px;"> 
+
 # Research Data Management for Reproducible Research
 
 - Pre-workshop activities: 15 min 

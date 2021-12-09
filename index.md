@@ -26,14 +26,5 @@ At the end of this workshop, you will be able to:
 3. Discuss foundational data management practices 
 4. Review available tools that facilitate reproducible research data
  
-
-
-
-
-
-
-
-
-
-
 [NEXT STEP: Pre-Workshop Videos](pre-workshop.html){: .btn .btn-blue }
+

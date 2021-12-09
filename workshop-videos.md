@@ -5,5 +5,6 @@ nav_order: 3
 has_children: true
 has_toc: true
 ---
-
+<put in image of the learning outcomes and such from pptx
+     
 [NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }

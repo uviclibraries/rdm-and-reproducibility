@@ -6,7 +6,7 @@ parent: Workshop Videos
 
 ---
 # Watch Workshop Video 3: 
-This lecture-style workshop reviews the key components of a data management plan (DMP) and offers guidance on using the [DMP Assistant](https://assistant.portagenetwork.ca/){:target="_blank"}, a national, online, bilingual data management planning tool developed by the Portage Network. This tool is freely available to all researchers, and develops a DMP through a series of key data management questions, supported by best-practice and examples.
+For your convience, this workshop has been segmented into three parts. The third part takes an indepth view of best practices to enhance reproducibility within your project.
 
 ## Reproducibility Best Practices (20 minutes)
 

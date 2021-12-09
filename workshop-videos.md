@@ -7,5 +7,5 @@ has_toc: true
 ---
 <put in image of the learning outcomes and such from pptx
      
-[NEXT STEP: The Reproducibility Crisis](video-one.s.html){: .btn .btn-blue }
+[NEXT STEP: The Reproducibility Crisis](video-one.html){: .btn .btn-blue }
 

@@ -12,7 +12,7 @@ nav_order: 4
 
 ## Reproducibility Resources
 - [A Beginner’s Guide to Conducting Reproducible Research](Alston & Rick)(https://doi.org/10.1002/bes2.1801{:target="_blank"}
-- [Curating Data Sets for Reproducibility] (Khair & Sawchuk)(https://data-curation.github.io/cdcf-workshop2B/#workshop){:target="_blank"}
+- [Curating Data Sets for Reproducibility](Khair & Sawchuk)(https://data-curation.github.io/cdcf-workshop2B/#workshop){:target="_blank"}
 - [DMP Exemplars](https://portagenetwork.ca/tools-and-resources/training-resources/){:target="_blank"}
 
 ## Acknowledgements

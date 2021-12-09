@@ -16,4 +16,4 @@ This lecture-style workshop reviews the key components of a data management plan
 
 <br>
 **UPDATE**
-[NEXT STEP: Excel Basics](basics-data-cleaning.html){: .btn .btn-blue }
+[NEXT STEP: Additional Resources](basics-data-cleaning.html){: .btn .btn-blue }

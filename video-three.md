@@ -15,5 +15,5 @@ This lecture-style workshop reviews the key components of a data management plan
 - ### [Presentation Slides](https://bit.ly/3iPS8jZ){:target="_blank"} 
 
 <br>
-**UPDATE**
-[NEXT STEP: Additional Resources](basics-data-cleaning.html){: .btn .btn-blue }
+
+[NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }

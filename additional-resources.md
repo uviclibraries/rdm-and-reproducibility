@@ -7,6 +7,9 @@ nav_order: 4
 
 ## Research Data Management Resources
 - [University of Victoria Research Data Services Guide](https://libguides.uvic.ca/researchdata/home){:target="_blank"}
+- [University of Victoria Research Data Services Guide](https://libguides.uvic.ca/researchdata/home){:target="_blank"}
+- [University of Victoria Research Data Services Guide](https://libguides.uvic.ca/researchdata/home){:target="_blank"}
+- 
 - [RDM Alliance of Canada RDM Tools & Resources](https://portagenetwork.ca/tools-and-resources/){:target="_blank"}
 - [Introduction to Data Management Plans (DMPs)](https://uviclibraries.github.io/data-management-plans//){:target="_blank"}
 

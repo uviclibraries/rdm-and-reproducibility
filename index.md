@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-<img src="![image](https://user-images.githubusercontent.com/88455218/145476068-e8534980-796a-4ea2-902e-6e525432c660.png)" alt="image description" style="float:right;width:180px;"> 
+![image](https://user-images.githubusercontent.com/88455218/145476068-e8534980-796a-4ea2-902e-6e525432c660.png)
 
 # Research Data Management for Reproducible Research
 

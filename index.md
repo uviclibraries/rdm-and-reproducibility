@@ -10,11 +10,15 @@ nav_order: 1
 - Pre-workshop activities: 15 min 
 - Workshop Videos : 32 min
 
-## Why is Reproducibility Important? 
+## Why is Reproducibility? 
 
-Reproducible research establishes the validity of scholarly output and contributes to reasearcher credibility and reliability. Across disciplines, researchers have been calling for reproducible research as an attainable minimum standard for assessing the value of scholarly claims, particularly when full independent replication of a study is not feasible. 
+Reproducible research establishes the validity of scholarly output and contributes to reasearcher credibility and reliability. Research data management is foundational to establishing reproducibility, as RDM principles are at the centre of ensuring research is reproducible. 
 
-Data management is foundational to establishing reproducibility and its practices must be implemented throughout the course of a research project. 
+By engaging with research data management practices, you will:
+- Stay organized throughout your research project
+- Improve the quality of your research while guarding against misconduct and data falsification
+- Enable the preservation and reuse of your data
+- Fulfill emerging requirements as stipulated by institutions, publishers, and granting councils
 
 ## Learning Objectives:
 
@@ -24,6 +28,7 @@ At the end of this workshop, you will be able to:
 2. Examine challenges of creating reproducible research data
 3. Discuss foundational data management practices 
 4. Review available tools that facilitate reproducible research data
+<br> 
 <br> 
 [NEXT STEP: Pre-Workshop Videos](pre-workshop.html){: .btn .btn-blue }
 

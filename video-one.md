@@ -5,7 +5,7 @@ nav_order: 2
 parent: Workshop Videos
 ---
 # Watch Workshop Video 1:
-For your convience, this workshop has been segmented into three parts. The first part contains definitions and examines the reproducibility crisis.
+For your convenience, this workshop has been segmented into three parts. The first part contains definitions and examines the reproducibility crisis.
 
 ## The Reproducibility Crisis (6 minutes)
 <br>

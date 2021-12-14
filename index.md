@@ -5,6 +5,8 @@ nav_order: 1
 ---
 ![image](https://user-images.githubusercontent.com/88455218/145476068-e8534980-796a-4ea2-902e-6e525432c660.png)
 
+<img src="images/idea.png" style="float:right;width:400px;height:320px;"> 
+
 # Research Data Management (RDM) for Reproducible Research
 
 - Pre-workshop activities: 15 min 

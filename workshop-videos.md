@@ -5,7 +5,9 @@ nav_order: 3
 has_children: true
 has_toc: false
 ---
-# Watch Workshop Videos 1-3:
+## Watch Workshop Videos 1-3:
+For your convenience, this workshop has been segmented into three parts. 
+<br>
 ![MLG Oct  2021_Research Data Management for Reproducible Research_v04](https://user-images.githubusercontent.com/88455218/145485829-3fd45edc-06c3-4453-ae11-e5b15db653be.jpg)
-  
+<br>
 [NEXT STEP: The Reproducibility Crisis](video-one.html){: .btn .btn-blue }

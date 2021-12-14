@@ -1,4 +1,4 @@
-# Research Data Management for Reproducible Research
+# RDM for Reproducible Research
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop:  https://uviclibraries.github.io/rdm-and-reproducibility

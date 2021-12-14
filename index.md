@@ -5,12 +5,12 @@ nav_order: 1
 ---
 ![image](https://user-images.githubusercontent.com/88455218/145476068-e8534980-796a-4ea2-902e-6e525432c660.png)
 
-# Research Data Management for Reproducible Research
+# Research Data Management (RDM) for Reproducible Research
 
 - Pre-workshop activities: 15 min 
 - Workshop Videos : 32 min
 
-## Why is Reproducibility? 
+## Why is Reproducibility Important? 
 
 Reproducible research establishes the validity of scholarly output and contributes to reasearcher credibility and reliability. Research data management is foundational to establishing reproducibility, as RDM principles are at the centre of ensuring research is reproducible. 
 

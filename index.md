@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/idea.png" style="float:right;width:320px;height:320px;"> 
 
-# RDM and Reproducible Research
+# Research Data Management (RDM) and Reproducible Research
 
 - Pre-workshop activities: 15 min 
 - Workshop Videos : 32 min

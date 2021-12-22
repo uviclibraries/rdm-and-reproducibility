@@ -22,5 +22,5 @@ nav_order: 4
 - [Jessica Mussell](mailto:jmussell@uvic.ca){:target="_blank"} and [Aditi Gupta](mailto:aditig@uvic.ca){:target="_blank"}, UVic Librarians, created the pre-workshop video _Intro to Research Data Management_.
 <br>
 <br>
-[NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
+[NEXT STEP: Workshop Evaluation Survey](https://uviclibraries.github.io/rdm-and-reproducibility/workshop-survey.html){: .btn .btn-blue }
 

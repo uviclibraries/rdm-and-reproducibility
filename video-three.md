@@ -13,4 +13,4 @@ For your  convenience, this workshop has been segmented into three parts. The th
 - ### [Presentation Slides](https://bit.ly/3iPS8jZ){:target="_blank"} 
 
 <br>
-[NEXT STEP: Additional Resources](additional-resources.html){: .btn .btn-blue }
+[NEXT STEP: Additional Resources](https://uviclibraries.github.io/rdm-and-reproducibility/.html){: .btn .btn-blue }

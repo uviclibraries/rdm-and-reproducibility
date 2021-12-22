@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images/idea.png" style="float:right;width:320px;height:320px;"> 
+<img src="images/idea.png" style="float:right;width:275px;height:275px;"> 
 
 # Research Data Management (RDM) and Reproducible Research
 
